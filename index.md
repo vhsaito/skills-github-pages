@@ -1,5 +1,5 @@
 ---
-title: Testing
+title: Index title
 ---
 
 Testing
